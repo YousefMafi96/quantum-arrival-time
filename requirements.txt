@@ -1,0 +1,7 @@
+# Tested with Python 3.13, qiskit 2.6.1, qiskit-aer 0.18.0, qiskit-ibm-runtime 0.51.0
+qiskit>=2.0
+qiskit-aer>=0.17
+qiskit-ibm-runtime>=0.51    # only for the fake backends (FakeKingston, FakeBerlin, ...)
+numpy
+matplotlib
+jupyter
